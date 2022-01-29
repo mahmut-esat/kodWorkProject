@@ -1,5 +1,4 @@
 # codeWork
-
 - This project was created for patika.dev react-native camp homework.
 
 # used in this project:
