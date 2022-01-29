@@ -9,7 +9,7 @@
 - React Redux
 - Using Lottie animation packs
 
-![](src/assets/screens/codeWork.gif)
+![](src/assets/screens/kodWork.gif)
 ![](src/assets/screens/1.jpg)
 ![](src/assets/screens/2.jpg)
 ![](src/assets/screens/3.jpg)
