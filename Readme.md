@@ -9,8 +9,8 @@
 - React Redux
 - Using Lottie animation packs
 
-![](src\assets\screens\codeWork.gif)
-![](src\assets\screens\codeWork\1.jpg)
-![](src\assets\screens\codeWork\2.jpg)
-![](src\assets\screens\codeWork\3.jpg)
-![](src\assets\screens\codeWork\4.jpg)
+![](src/assets/screens/codeWork.gif)
+![](src/assets/screens/codeWork/1.jpg)
+![](src/assets/screens/codeWork/2.jpg)
+![](src/assets/screens/codeWork/3.jpg)
+![](src/assets/screens/codeWork/4.jpg)
